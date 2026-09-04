@@ -15,7 +15,7 @@ I specialize in bridging the gap between hardware and software, building **end-t
 | **AI & Computer Vision** | OpenCV, CNN, YOLOv11, OCR, TensorFlow/Keras |
 | **Full Stack** | React, React Native (Expo), Node.js, Express.js |
 | **Cloud & Databases** | Supabase, MongoDB, MySQL, Docker, AWS (Foundations) |
-| **Embedded / IoT** | ESP32, Arduino, C, Python, PCB Design |
+| **Embedded / IoT** | ESP32, Arduino, C, Python, Micro-controllers |
 
 ---
 
@@ -48,9 +48,9 @@ I specialize in bridging the gap between hardware and software, building **end-t
 
 ## 🏆 Accomplishments
 * **Winner** – TechXter 13.0 (IETE SIESGST)
-* **1st Runner-Up** – Enigma 3.0 Hackathon (CSI SIESGST)
-* **1st Runner-Up** – Promethean Project Presentation (System Design)
-* **1st Runner-Up** – Ideation 25' (IETE SIESGST)
+* **1st Runner-Up** – Enigma 3.0 Hackathon SIESGST
+* **1st Runner-Up** – Promethean Project Presentation SIESGST
+* **1st Runner-Up** – Ideation 25' SIESGST
 
 ---
 
