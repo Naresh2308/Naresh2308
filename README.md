@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Naresh T.
+# 👋 Hi, I'm T. Naresh 
 
 ### **Computer Engineering Student | AI + IoT Architect | Full-Stack Developer**
 
